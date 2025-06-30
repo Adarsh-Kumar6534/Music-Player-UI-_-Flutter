@@ -18,7 +18,7 @@
 ## 🎨 UI Preview
 
 <div align="center">
-  <img src="https://your-hosted-link.gif" width="70%" alt="App Preview" />
+  <img src="assets/music_ui.gif" width="70%" alt="App Preview" />
 
 </div>
 
@@ -47,7 +47,7 @@ flutter run
 
 | Package                  | Description                     |
 |--------------------------|---------------------------------|
-| `assets_audio_player`    | For audio playback              |
+| `assets/songs`    | For audio playback              |
 | `flutter_blur` or `BackdropFilter` | For UI blur/glass effect |
 | `material` & `dart:math` | Core design & animations        |
 
@@ -55,7 +55,7 @@ flutter run
 
 | Home Screen                                 | Player UI                                  |
 |---------------------------------------------|---------------------------------------------|
-| <img src="assets/screenshots/home.png" width="300"/> | <img src="assets/screenshots/player.png" width="300"/> |
+| <img src="assets/home.png" width="300"/> | <img src="assets/player.png" width="300"/> |
 
 ## 🙌 Author
 
