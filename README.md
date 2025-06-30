@@ -9,15 +9,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Stylish+Flutter+Music+Player;Built+with+❤️+for+music+enthusiasts!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Stylish+Flutter+Music+Player;Built+with+❤️+for+music+enthusiasts!" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ## 🎨 UI Preview
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTA1djJmY2tpY2p3dmw4bWNqazZla3VoN2VvNmlyenZzN3V4a2t5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9J7tdY5E5Y9WgLkKiN/giphy.gif" width="70%" alt="App Preview" />
+  <img src="https://your-hosted-link.gif" width="70%" alt="App Preview" />
+
 </div>
 
 ---
